@@ -6,7 +6,7 @@ import numpy as np
 from matplotlib.animation import FuncAnimation
 
 #-------------------------------------------
-#FUNCTION
+#FUNCTION   
 T = np.linspace(-2,2,800) #X AXE: TEMPORAL
 xAxe = T 
 
